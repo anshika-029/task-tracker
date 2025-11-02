@@ -8,7 +8,7 @@ function App() {
   const [editingId, setEditingId] = useState(null);
   const [filter, setFilter] = useState("all");
 
-  const BASE = "http://localhost:5000/api/tasks";
+  const BASE = "https://task-tracker-qt4f.vercel.app/api/tasks";
 
   // load tasks once when app starts
   useEffect(() => {

@@ -6,9 +6,9 @@ Users can **add, edit, delete, mark tasks as completed, and filter by status (Al
 ---
 
 ## 🚀 Live Links
-- **Frontend:** [https://your-frontend-link.vercel.app](#)
-- **Backend API:** [https://your-backend-link.vercel.app/api/tasks](#)
-- **GitHub Repo:** [https://github.com/yourusername/task-tracker](#)
+- **Frontend:** https://task-tracker-xi-ochre.vercel.app/
+- **Backend API:** https://task-tracker-qt4f.vercel.app/
+- **GitHub Repo:** https://github.com/anshika-029/task-tracker
 
 ---
 
